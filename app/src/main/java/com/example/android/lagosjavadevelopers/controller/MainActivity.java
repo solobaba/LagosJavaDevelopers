@@ -93,5 +93,8 @@ public class MainActivity extends AppCompatActivity {
             Log.d("Error", e.getMessage());
             Toast.makeText(this, e.toString(), Toast.LENGTH_SHORT).show();
         }
+        
+        //Someone else fixes my bugs.
+        //Thanks.
     }
 }
